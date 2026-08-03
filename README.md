@@ -13,6 +13,10 @@ This repository is published by [Purrdict](https://www.purrdict.xyz/), an indepe
 
 Each row represents one HIP-4 outcome token, such as `#1731`. It does **not** represent one unique prediction-market question: binary questions normally create two outcome tokens, while multi-outcome questions create more.
 
+## Published analysis
+
+- [HIP-4 Market Activity Report: August 2026](https://www.purrdict.xyz/blog/hip4-market-activity-report-august-2026/) — outcome-row concentration, activity by parsed market class, reproducible calculations, and analytical limitations for the August 3 snapshot.
+
 Available fields:
 
 | Field          | Meaning                                   |
