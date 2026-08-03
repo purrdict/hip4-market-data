@@ -1,0 +1,9 @@
+{
+  "name": "@purrdict/hip4-market-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "snapshot": "bun scripts/snapshot.ts",
+    "test": "bun test"
+  }
+}

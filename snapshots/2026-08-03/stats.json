@@ -1,0 +1,42 @@
+{
+  "source": "https://api.purrdict.xyz/api/markets/overview",
+  "generatedAt": "2026-08-03T19:25:12.099Z",
+  "rowDefinition": "One row per indexed HIP-4 outcome token",
+  "outcomeTokenRows": 1818,
+  "indexedNotional": 403183505.4047749,
+  "indexedFills": 5723936,
+  "classifiedRows": 427,
+  "unclassifiedRows": 1391,
+  "byMarketClass": [
+    {
+      "marketClass": "unclassified",
+      "outcomeTokenRows": 1391,
+      "indexedNotional": 216664945.74324852,
+      "indexedFills": 2162357
+    },
+    {
+      "marketClass": "priceBinary",
+      "outcomeTokenRows": 72,
+      "indexedNotional": 96736630.55150996,
+      "indexedFills": 2058553
+    },
+    {
+      "marketClass": "named",
+      "outcomeTokenRows": 140,
+      "indexedNotional": 76938965.93162754,
+      "indexedFills": 1237442
+    },
+    {
+      "marketClass": "priceBucket",
+      "outcomeTokenRows": 214,
+      "indexedNotional": 12840341.345073303,
+      "indexedFills": 265532
+    },
+    {
+      "marketClass": "fallback",
+      "outcomeTokenRows": 1,
+      "indexedNotional": 2621.83331558,
+      "indexedFills": 52
+    }
+  ]
+}
